@@ -1,0 +1,64 @@
+@media screen and (min-width:1200px){
+    .top-cards{z-index: 10;background-color: #f7f7f7 !important;}
+    img#parlayan{top:75%;left:90%;}
+    a .logo{height:100px;}
+}
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .top-cards{z-index: 10;background-color: #f7f7f7 !important;top:-55px;}
+     section .ulusal{padding-top:110px !important; padding-bottom: 90px;}
+     .standart{margin-top:-350px; z-index: 5;}
+     .wrapper-right form{height: 90% !important;}
+     .answer-img{top:35px;}
+     img#parlayan{top:50%;left:75%;}
+     a .logo{height:100px;}
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .top-cards{z-index: 1;background-color: #f7f7f7 !important;top:-30px;}
+     a .logo{height:60px;}
+     .guranteed{margin-top: 0px;padding-bottom: 20px;}
+     .foto{max-height: 700px;margin-bottom: 24px;}
+     img#parlayan{top:70%;}
+     .standart{margin-bottom: 50px;}
+     .wrapper-right form{height: 90% !important;}
+     .referans .referans-cols{text-align: center;}
+     .footer-col1,.footer-col3{padding-left: 50px;}
+     .footer-col1,.footer-col2{padding-bottom: 30px;}
+     .answer-img{top:105px;}
+     .begin-img{padding-top: 50px !important;}
+}
+
+
+@media screen and (min-width:577px) and (max-width:767px) {
+    .top-cards{z-index: 1;background-color: #f7f7f7 !important;top:-10px;}
+     a .logo{height:60px;}
+     .guranteed{margin-top: 0px;padding-bottom: 20px;}
+     .foto{max-height: 550px;margin-bottom: 50px;}
+     img#parlayan{top:75%;}
+     .standart{margin-bottom: 50px;}
+     .wrapper-right form{height: 90% !important;}
+     .referans .referans-cols{text-align: center;}
+     .footer-col1,.footer-col3,.footer-col2,.footer-col4{padding-left: 50px;}
+     .footer-col1,.footer-col2{padding-bottom: 30px;}
+     .mutfak{ z-index: 1;top: -30%;left: 35%;}
+     #mySlide{margin-top:-70px}
+}
+
+
+@media screen and  (max-width:576px) {
+    #mySlide{margin-top:-62px}
+    .top-cards{z-index: 1;background-color: #f7f7f7 !important;top:-15px;}
+     a .logo{height:60px;padding-left:15px;}
+     .guranteed{margin-top: 0px;padding-bottom: 20px;}
+     .foto{max-height: 500px;margin-bottom: 50px;}
+     img#parlayan{top:75%;left: 80%;}
+     .bes-yil{max-height:150px;}
+     .bes-yil span{font-size:1.5rem;padding-left: 4px;}
+     .bes-yil p{font-size:1rem !important;}
+     .standart{margin-bottom: 50px;}
+     .wrapper-right form{height: 90% !important;}
+     .referans .referans-cols{text-align: center;}
+     .footer-cols{text-align: center;}
+     .footer-col1,.footer-col2{padding-bottom: 30px;}
+     .mutfak{ z-index: 1;top: -60%;left: 30%;}
+}
